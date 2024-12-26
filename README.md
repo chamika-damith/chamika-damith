@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **chamikadamith.me**
+- 📫 How to reach me: [chamikadamith.me](https://chamikadamith.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
